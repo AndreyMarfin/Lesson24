@@ -1,0 +1,10 @@
+Positive value, 600, 300, 45
+Negative first value, -600, 300, 0
+Negative second value, 600, -300, 0
+All negative values, -600, -300, 0
+Zero value, 0, 0, 0
+Fractional positive value, 600.5, 300.2, 45.045
+Fractional negative first value, -600.5, 300.2, 0
+Fractional negative second value, 600.5, -300.2, 0
+Fractional all negative values, -600.5, -300.2, 0
+Fractional negative response, 300.5, 600.2, 0
